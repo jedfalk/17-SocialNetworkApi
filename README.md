@@ -25,7 +25,7 @@ Then use these commands in the terminal:
 <pre> <code>```npm start ```</code> </pre>
 
 ## Usage
-Walkthrough video: 
+Walkthrough video: https://drive.google.com/file/d/1XTb7ARpReiWlUs1GW_CFX0Pan2qRLNXp/view?usp=sharing
 
 ## Contributing
 If you would like to contribute email me
