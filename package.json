@@ -1,0 +1,31 @@
+{
+  "name": "17-nosql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "npm run build && node dist/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node dist/seeds/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^22.15.30",
+    "dayjs": "^1.11.13",
+    "express": "^5.1.0",
+    "inquirer": "^12.6.3",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
